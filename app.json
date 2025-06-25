@@ -1,0 +1,8 @@
+{
+  "android": {
+    "package": "com.anonymous.walmartbarcodescanner"
+  },
+  "ios": {
+    "bundleIdentifier": "com.anonymous.walmartbarcodescanner"
+  }
+}
